@@ -24,6 +24,10 @@
                             <i class="mdi mdi-cached mr-2 text-success"></i>
                             BUSCA X FECHA
                         </a>
+                        <a class="dropdown-item" href="../pages/giro_busca_ran.php">
+                            <i class="mdi mdi-cached mr-2 text-success"></i>
+                            BUSCA X RANGO DE FECHA
+                        </a>
                         <a class="dropdown-item" href="../pages/giro_busca_ben.php">
                             <i class="mdi mdi-cached mr-2 text-success"></i>
                             BUSCA X BENEFICIARIO

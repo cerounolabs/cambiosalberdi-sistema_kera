@@ -7,7 +7,7 @@
         "suc_matriz"            => "192.168.0.200:aliadocambios",
         "suc_villamorra"        => "10.168.196.130:aliadocambios",
         "age_sanlorenzo"        => "10.168.191.130:aliadocambios",
-        "suc_ciudaddeleste"     => "10.168.196.130:aliadocambios",
+        "suc_ciudaddeleste"     => "10.168.192.138:aliadocambios",
         "age_jebai"             => "10.168.193.130:aliadocambios",
         "age_lailai"            => "10.168.194.130:aliadocambios",
         "age_uniamerica"        => "10.168.199.131:aliadocambios",
